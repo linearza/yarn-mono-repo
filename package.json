@@ -6,6 +6,9 @@
   "author": "",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "dev": "lerna run start --parallel"
+  },
   "workspaces": [
     "packages/*"
   ],
