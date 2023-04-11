@@ -5,6 +5,7 @@
   "repository": "https://github.com/linearza/yarn-mono-repo.git",
   "author": "",
   "license": "MIT",
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
