@@ -1,0 +1,14 @@
+{
+  "name": "yarn-mono-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/linearza/yarn-mono-repo.git",
+  "author": "",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^6.6.1"
+  }
+}
